@@ -1,4 +1,4 @@
-package griezma.wiremock.sample;
+package griezma.sbwiremock;
 
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;

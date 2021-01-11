@@ -1,4 +1,4 @@
-package griezma.wiremock.sample;
+package griezma.sbwiremock;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
